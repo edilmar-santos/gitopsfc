@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: edilmar/gitopsfc
-  newTag: 70a93d4a13f16b780fbecbcb46a27b894438644d
+  newTag: 76a253e7065f8a1b61312e16cc2fe708357fdb4a
